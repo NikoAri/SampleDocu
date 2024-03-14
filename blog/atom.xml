@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NikoAri.github.io/SampleDocu/blog</id>
-    <title>Niko Site Blog</title>
+    <title>🏄‍♂️ Niko 🏄‍♂️ Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NikoAri.github.io/SampleDocu/blog"/>
-    <subtitle>Niko Site Blog</subtitle>
+    <subtitle>🏄‍♂️ Niko 🏄‍♂️ Blog</subtitle>
     <icon>https://NikoAri.github.io/SampleDocu/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -46,6 +46,8 @@
         <content type="html"><![CDATA[<p>Image:</p>
 <img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120962&amp;authkey=%21AFgb7svWtBiUcj4" width="100">
 <img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120962&amp;authkey=%21AFgb7svWtBiUcj4" width="100">
+<p>Latest:</p>
+<img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120965&amp;authkey=%21AIDGFP7XzGKwmGE" width="100">
 <p>// Folder
 <a href="https://1drv.ms/f/s!AqqeaMJ9YDgMh7EBQxjhpaqarwmAZw?e=UW7tiY/SamplePhoto.heic" target="_blank" rel="noopener noreferrer">https://1drv.ms/f/s!AqqeaMJ9YDgMh7EBQxjhpaqarwmAZw?e=UW7tiY/SamplePhoto.heic</a></p>
 <p>From OneDrive:</p>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Niko Site Blog</title>
+        <title>🏄‍♂️ Niko 🏄‍♂️ Blog</title>
         <link>https://NikoAri.github.io/SampleDocu/blog</link>
-        <description>Niko Site Blog</description>
+        <description>🏄‍♂️ Niko 🏄‍♂️ Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -39,6 +39,8 @@
             <content:encoded><![CDATA[<p>Image:</p>
 <img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120962&amp;authkey=%21AFgb7svWtBiUcj4" width="100">
 <img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120962&amp;authkey=%21AFgb7svWtBiUcj4" width="100">
+<p>Latest:</p>
+<img src="https://onedrive.live.com/embed?resid=C38607DC2689EAA%21120965&amp;authkey=%21AIDGFP7XzGKwmGE" width="100">
 <p>// Folder
 <a href="https://1drv.ms/f/s!AqqeaMJ9YDgMh7EBQxjhpaqarwmAZw?e=UW7tiY/SamplePhoto.heic" target="_blank" rel="noopener noreferrer">https://1drv.ms/f/s!AqqeaMJ9YDgMh7EBQxjhpaqarwmAZw?e=UW7tiY/SamplePhoto.heic</a></p>
 <p>From OneDrive:</p>
